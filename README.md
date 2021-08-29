@@ -4,8 +4,8 @@
 
 ---
 
-# ProjectName
-ProjectDescription
+# DiscordRPC
+Create your own Discord Rich Presence.
 
 # Sponsor me.
 - [GitHub sponsor](https://github.com/sponsors/ZeldaDev)
