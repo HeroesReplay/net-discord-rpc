@@ -1,5 +1,5 @@
 <a href="https://zeldadev.eu">
-    <img src="https://cdn.julianvs.dev/assets/logo/zelda_dev_color.png" alt="ZeldaDev logo colored." height="150"/>
+    <img src="https://camo.githubusercontent.com/d9890324ce9339526a8a6d96ba25e2d63e4e69388d39900472d329f72d18c67e/68747470733a2f2f63646e2e6a756c69616e76732e6465762f6173736574732f6c6f676f2f7a656c64615f6465765f636f6c6f722e706e67" alt="ZeldaDev logo colored." height="150"/>
 </a>
 
 ---
@@ -27,19 +27,19 @@ When you want to have a extra feature added please create a [issue](/issues) wit
 
 - Package Manager
 ```
-Install-Package NetDiscordRpc -Version 1.0.0
+Install-Package NetDiscordRpc -Version 1.0.1
 ```
 - .NET CLI
 ```
-dotnet add package NetDiscordRpc --version 1.0.0
+dotnet add package NetDiscordRpc --version 1.0.1
 ```
 - PackageReference
 ```
-<PackageReference Include="NetDiscordRpc" Version="1.0.0" />
+<PackageReference Include="NetDiscordRpc" Version="1.0.1" />
 ```
 
 Or install it through NuGet:
-![NuGet install example](https://media.julianvs.dev/media/hpyNjsTaRUC8rAgiXKlK.png)
+![NuGet install example](https://camo.githubusercontent.com/cb5ff53765de073c6edf9e26610f584f13fac70736bfe34fb4b7830ddabc7b1e/68747470733a2f2f6d656469612e6a756c69616e76732e6465762f6d656469612f6870794e6a7354615255433872416769584b6c4b2e706e67)
 
 **Required dependencies.**
 - Newtonsoft.Json (required)
