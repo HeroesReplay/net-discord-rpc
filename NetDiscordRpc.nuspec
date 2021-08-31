@@ -4,16 +4,16 @@
   <metadata xmlns="http://schemas.microsoft.com/packaging/21.0.07/nuspec.xsd">
     
     <id>NetDiscordRpc</id>
-    <version>1.0.0.0</version>
+    <version>1.0.1</version>
     <title>.NET Discord RPC</title>
     <authors>ZeldaDev</authors>
     <developmentDependency>false</developmentDependency>
     <language>C#</language>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl>https://zeldadev.eu</projectUrl>
+    <projectUrl>https://github.com/ZeldaDev/net-discord-rpc</projectUrl>
     <repository type="git" url="https://github.com/ZeldaDev/net-discord-rpc"/>
-    <icon>icons\icon.png</icon>
+    <icon>images\icon.png</icon>
     <description>A Discord RPC (Rich Presence Client) library written in C#. This is a edited version of @Lachee his Discord Rich Presence package, so some credits of this package goes to him. When trying to use his package a lot of things went wrong, so I build my own, to check if it would work. Below are some of the thing I've edited.</description>
     <copyright>(c) Copyright ZeldaDev 2021</copyright>
     <tags>DiscordRPC Rich Presence</tags>
@@ -25,13 +25,13 @@
         <dependency id="Newtonsoft.Json" version="13.0.1" />
       </group>
       <group targetFramework="netstandard2.0">
-        <dependency id="Microsoft.Win32.Registry" version="6.0.0" />
+        <dependency id="Microsoft.Win32.Registry" version="4.5.0" />
       </group>
     </dependencies>
     
   </metadata>
   <files>
-    <file src="icons\icon.png" target="icons\"/>
+    <file src="images\icon.png" target="images\"/>
   </files>
   
 </package>
