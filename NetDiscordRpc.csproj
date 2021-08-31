@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <IsPackable>false</IsPackable>
+        <Title>NetDiscordRpc</Title>
+        <Authors>ZeldaDev</Authors>
+        <Description>A .NET package for C# to create a custom Discord RPC.</Description>
+        <PackageProjectUrl></PackageProjectUrl>
+        <PackageIconUrl>https://cdn.julianvs.dev/assets/ZeldaDev/favicons/favicon.ico</PackageIconUrl>
+        <RepositoryUrl>https://github.com/ZeldaDev/net-discord-rpc</RepositoryUrl>
+        <NeutralLanguage>en</NeutralLanguage>
+        <PublicSign>false</PublicSign>
+        <Copyright>Copyright © 2021 - ZeldaDev</Copyright>
+        <PackageLicenseUrl>https://github.com/ZeldaDev/net-discord-rpc/blob/main/LICENSE</PackageLicenseUrl>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Win32.Registry" Version="6.0.0-preview.5.21301.5" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    </ItemGroup>
+
+</Project>
