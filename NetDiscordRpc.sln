@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDiscordRpc", "NetDiscordRpc.csproj", "{CEEF0972-9102-4AB7-869E-6D037A2229C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDiscordRpcTest", "NetDiscordRpcTest\NetDiscordRpcTest.csproj", "{5E48D1CC-9C63-4690-B58E-07F1131EFFAC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +12,5 @@ Global
 		{CEEF0972-9102-4AB7-869E-6D037A2229C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEEF0972-9102-4AB7-869E-6D037A2229C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEEF0972-9102-4AB7-869E-6D037A2229C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5E48D1CC-9C63-4690-B58E-07F1131EFFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E48D1CC-9C63-4690-B58E-07F1131EFFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E48D1CC-9C63-4690-B58E-07F1131EFFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E48D1CC-9C63-4690-B58E-07F1131EFFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

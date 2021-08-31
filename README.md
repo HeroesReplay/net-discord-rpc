@@ -22,8 +22,26 @@ When having/facing a bug please create a [issue](/issues) with the bug template 
 
 When you want to have a extra feature added please create a [issue](/issues) with the feature template and describe the feature as good as possible and maybe provide some code as how it would work in your perspective.
 
-# Installation 
-**Dependencies.**
+# Installation
+**Install package**
+
+- Package Manager
+```
+Install-Package NetDiscordRpc -Version 1.0.0
+```
+- .NET CLI
+```
+dotnet add package NetDiscordRpc --version 1.0.0
+```
+- PackageReference
+```
+<PackageReference Include="NetDiscordRpc" Version="1.0.0" />
+```
+
+Or install it through NuGet:
+![NuGet install example](https://media.julianvs.dev/media/hpyNjsTaRUC8rAgiXKlK.png)
+
+**Required dependencies.**
 - Newtonsoft.Json (required)
 - Minimal **.NET 5** required.
 - C# 9.0
