@@ -25,15 +25,15 @@ When you want to have a extra feature added please create a [issue](/issues) wit
 
 - Package Manager
 ```
-Install-Package NetDiscordRpc -Version 1.0.1
+Install-Package NetDiscordRpc -Version 1.0.2
 ```
 - .NET CLI
 ```
-dotnet add package NetDiscordRpc --version 1.0.1
+dotnet add package NetDiscordRpc --version 1.0.2
 ```
 - PackageReference
 ```
-<PackageReference Include="NetDiscordRpc" Version="1.0.1" />
+<PackageReference Include="NetDiscordRpc" Version="1.0.2" />
 ```
 
 Or install it through NuGet:
