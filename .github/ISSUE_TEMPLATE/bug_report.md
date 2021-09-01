@@ -26,6 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS and OS version: [e.g. iOS]
  - Browser and browser version: [e.g. chrome, safari]
+ - Package version: [e.g. v1.0.2]
 
 **Your code**
 ```
