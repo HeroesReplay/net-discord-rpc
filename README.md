@@ -1,4 +1,6 @@
-<img src="https://camo.githubusercontent.com/d9890324ce9339526a8a6d96ba25e2d63e4e69388d39900472d329f72d18c67e/68747470733a2f2f63646e2e6a756c69616e76732e6465762f6173736574732f6c6f676f2f7a656c64615f6465765f636f6c6f722e706e67" alt="ZeldaDev logo colored." height="150"/>
+<a href="https://julianvanschijndel.nl">
+    <img src="https://cdn.julianvs.dev/assets/logos/TheDevJulian/logo_black.svg" alt="TheDevJulian logo." height="100"/>
+</a>
 
 ---
 
