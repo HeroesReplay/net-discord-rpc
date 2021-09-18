@@ -243,5 +243,5 @@ Feel free to contribute to the repository by forking the project and creating a 
 This project is [MIT](LICENSE) licensed.
 
 # Sponsor me
-- [GitHub sponsor](https://github.com/sponsors/ZeldaDev)
+- [GitHub sponsor](https://github.com/sponsors/julianvschijndel)
 - Bitcoin: **3HxQEwRRKigcy2mZXZCHh6ouzVK7HkbMbi**
